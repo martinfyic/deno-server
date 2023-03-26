@@ -2,7 +2,7 @@
 	"$schema": "https://deno.land/x/denon@2.5.0/schema.json",
 	"scripts": {
 		"start": {
-			"cmd": "deno run -A src/server.tsx",
+			"cmd": "deno run -A server.tsx",
 			"desc": "run my server.tsx file"
 		}
 	}
