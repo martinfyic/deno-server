@@ -31,6 +31,7 @@ export default (props: Array<string> = []) =>
   <title>🦕 Deno Server</title>
   </head>
   <body style="background-color: black; font-size: x-large; margin: 50px;">
+	<h1 style="font-size: 4rem; margin: 10px; text-align: center; color: white;">Deno Server 🦕</h1>
   ${ReactDOMServer.renderToString(
 		<>
 			<form
